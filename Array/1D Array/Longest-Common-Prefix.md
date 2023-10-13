@@ -18,4 +18,20 @@ strs: ["linger", "lint", "limit"]
 LCP: ""
 ```
 
+---
+
 ### Problem Analysis:
+
+Enter analysis here.
+
+---
+
+### Solutions:
+
+#### Brute Force:
+
+Enter brute-force here.
+
+#### Optimized:
+
+Enter optimized here.
