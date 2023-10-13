@@ -20,7 +20,7 @@ This is **not** an official guide for solving LeetCode DSA questions; this is a 
 
 #### 1D Array
 
-- [Longest Common Prefix](Array/1D%20Array/Longest-Common-Prefix.md)
+- [Longest Common Prefix](Array/1D-Array/Longest-Common-Prefix.md)
 
 #### 2D Array
 
