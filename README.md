@@ -9,9 +9,10 @@ This is **not** an official guide for solving LeetCode DSA questions; this is a 
 - [Array](#array)
   - [1D Array](#1d-array)
   - [2D Array](#2d-array)
+- [Hash Table/Map](#hash-table--hashmap)
+- [Linked List](#linked-list)
 - [Stack](#stack)
 - [Queue](#queue)
-- [Linked List](#linked-list)
 - [Tree](#tree)
 - [Graph](#graph)
 
@@ -19,9 +20,17 @@ This is **not** an official guide for solving LeetCode DSA questions; this is a 
 
 #### 1D Array
 
-- [Merge Sorted Array](merge-sorted-array)
+- [Longest Common Prefix](Array/1D%20Array/Longest-Common-Prefix.md)
 
 #### 2D Array
+
+(this section left blank).
+
+## Hash-Table/Map
+
+(this section left blank).
+
+## Linked List
 
 (this section left blank).
 
@@ -34,10 +43,6 @@ This is **not** an official guide for solving LeetCode DSA questions; this is a 
 (this section left blank).
 
 ## Hash Table / HashMap
-
-(this section left blank).
-
-## Linked List
 
 (this section left blank).
 
