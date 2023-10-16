@@ -1,6 +1,6 @@
 # LeetCode Problems Analysis
 
-A repo meant for spaced-repetition practice of leetcode problems and their solutions. More important than the solutions are the patterns used to solve problems, where each entry will provide and discuss the pattern used. All code is (currently) in JavaScript
+A repo meant for spaced-repetition practice of leetcode problems and their solutions. More important than the solutions are the patterns/methods used to solve problems, where each entry will provide and discuss the pattern used. All code is (currently) in JavaScript
 
 This is **not** an official guide for solving LeetCode DSA questions; this is a **personal project** meant for my own understanding and development in DSA fundamentals. This is also an opportunity to practice using Markup on plain-text files to learn better documentation.
 
