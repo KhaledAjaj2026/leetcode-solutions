@@ -57,7 +57,7 @@ The above solution works, but it is not optimal and takes too much memory for wh
 
 Using the above assumptions, we can devise an algorithm that takes advantage of sorting. We can implement our own algorithm to sort the array, but it suffices to use the `Array.prototype.sort()` method in this case, since our main focus is not on sorting but on finding the LCP. There is a chance that your interviewer will want to see you implement your own sorting algorithm, so be prepared with the common sorting methods just in case.
 
-Using `Array.prototype.sort()` we simply plug in our given array of strings to sort them into lexicographic order. Then, we loop through our first word, since it will be shorter than the last word, and compare all their letters for similarity. If they have similar characters in the same position, then we push it to our varible `prefix`. If they do not match then we break the loop and return our `prefix`.
+Using `Array.prototype.sort()` we simply plug in our given array of strings to sort them into lexicographic order. Then, we loop through our first word, since it will be shorter than the last word, and compare all their letters for similarity. If they have similar characters in the same position, then we push it to our varible `prefix`. If they do not match then we return `prefix`.
 
 ```
 const longestCommonPrefixOptimized = (strs) => {
@@ -70,10 +70,9 @@ const longestCommonPrefixOptimized = (strs) => {
         if (strs[0][i] === strs[strs.length-1][i]) {
             prefix += strs[0][i];
         } else {
-            break;
+            return prefix;
         }
     }
-    return prefix;
 }
 ```
 
