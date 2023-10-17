@@ -6,6 +6,7 @@ This is **not** an official guide for solving LeetCode DSA questions; this is a 
 
 ## Table of Contents (by data-structure)
 
+- [String](#string)
 - [Array](#array)
   - [1D Array](#1d-array)
   - [2D Array](#2d-array)
@@ -15,6 +16,10 @@ This is **not** an official guide for solving LeetCode DSA questions; this is a 
 - [Queue](#queue)
 - [Tree](#tree)
 - [Graph](#graph)
+
+## String
+
+- [Find the Index of the First Occurrence in a String](String/First-Occurrence-In-String.md)
 
 ## Array
 
